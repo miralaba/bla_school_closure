@@ -1,6 +1,7 @@
 #files & folders
 raw/
 old/
+inep_am.txt
 *.env
 
 # History files
